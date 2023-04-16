@@ -1,0 +1,38 @@
+.filter-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1rem;
+  margin: 0 auto;
+  padding-top: 40px;
+}
+
+.filter-grid .card {
+  min-width: 23rem;
+  max-width: 25rem;
+}
+
+.card-body {
+  text-align: left;
+  height: 20rem; 
+}
+
+.filter-container {
+  display: flex;
+  justify-content: center;
+  gap: 32px;
+  margin-top: 32px;
+}
+
+.filter-form {
+  display: 'flex';
+  justify-content: 'center'; 
+  flex-direction: 'row'; 
+  gap: '32px';
+}
+
+.pagination-container {
+  display: flex;
+  justify-content: center;
+}
+
+
