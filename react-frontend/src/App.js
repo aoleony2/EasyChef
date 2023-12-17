@@ -1,5 +1,5 @@
 import React from 'react';
-import Nav_Bar from './components/NavBar/navbar.js';
+import NavBar from './components/NavBar/navbar.js';
 import Home from './components/Home/Home.js';
 import Signup from './components/Signup/signup.js';
 import Login from './components/Login/login.js';
@@ -16,7 +16,7 @@ import EditRecipe from './components/EditRecipe/EditRecipe';
 function App() {
   return (
     <div className="App">
-      <Nav_Bar/>
+      <NavBar/>
       <Routes>
         <Route path="/" element={<><Home /></>} />
         <Route path="/signup" element={<><Signup /></>} />

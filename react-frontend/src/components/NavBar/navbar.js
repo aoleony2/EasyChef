@@ -14,7 +14,7 @@ import { mutate } from "swr";
 import { useUser } from "../../hooks/useUser";
 import '../../css/bootstrap.min.css';
 
-function Nav_Bar() {
+function NavBar() {
   const { user } = useUser();
   const [data, setdata] = useState('');
   const navigate = useNavigate();
@@ -173,4 +173,4 @@ function Nav_Bar() {
   );
 }
 
-export default Nav_Bar;
+export default NavBar;
