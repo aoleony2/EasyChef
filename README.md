@@ -55,3 +55,8 @@ npm start
 ![Screenshot 2023-12-17 at 5 02 33 PM](https://github.com/davidtran001/EasyChef/assets/46908974/9cd60be0-c2d6-40ff-899f-063e8e7b2370)
 ### Shopping List
 ![Screenshot 2023-12-17 at 5 04 56 PM](https://github.com/davidtran001/EasyChef/assets/46908974/6fee1636-8d6c-41ec-92b3-459383655366)
+### Recipe Details
+![Screenshot 2023-12-17 at 7 02 27 PM](https://github.com/davidtran001/EasyChef/assets/46908974/7ad83541-3481-48c3-aaeb-16f314cd1c5d)
+### Create Recipes
+![Screenshot 2023-12-17 at 7 02 43 PM](https://github.com/davidtran001/EasyChef/assets/46908974/e4a58e4b-2564-4d73-9398-e08c59e03b2b)
+
