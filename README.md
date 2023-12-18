@@ -1,5 +1,12 @@
-# EasyChef
-EasyChef is a recipe sharing web application that allows users to create, view and share their recipes with each other. 
+<h1 align="center">
+  <strong>Easy Chef</strong>
+</h1>
+
+<p align="center">
+  <img src="https://github.com/davidtran001/EasyChef/assets/46908974/9efe0eb8-d859-4925-b674-ff8aa7d6537f" width="50%" height="50%">
+</p>
+
+Easy Chef is a recipe sharing web application that allows users to create, view and share their recipes with each other. 
 
 This application was built with Django REST framework and React.
 
